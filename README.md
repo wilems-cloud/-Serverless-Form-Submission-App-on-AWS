@@ -13,4 +13,20 @@ Internal employee surveys
 It enables easy scaling, minimal cost, and quick deployment.
 
 🧱 Architecture Overview
-   link : https://github.com/wilems-cloud/-Serverless-Form-Submission-App-on-AWS/blob/main/Architecture%20Diagram.jpg
+link : https://github.com/wilems-cloud/-Serverless-Form-Submission-App-on-AWS/blob/main/Architecture%20Diagram.jpg
+
+⚙️ Tech Stack
+S3 – Static website hosting for the frontend
+API Gateway – Routes GET and POST HTTP requests
+AWS Lambda – Handles business logic for reading and writing
+DynamoDB – NoSQL database to store form data
+SNS – Sends notification upon each new entry (POST)
+
+🧪 Features
+Submit user data through a clean web form
+View existing entries (optional: via API or logs)
+Real-time alerts on new submissions (SMS or email via SNS)
+Fully serverless and event-driven
+
+Feel fre to clone and try it..
+let me know your feedback please.
