@@ -13,4 +13,4 @@ Internal employee surveys
 It enables easy scaling, minimal cost, and quick deployment.
 
 🧱 Architecture Overview
-link : 
+   link : https://github.com/wilems-cloud/-Serverless-Form-Submission-App-on-AWS/blob/main/Architecture%20Diagram.jpg
